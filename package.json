@@ -1,0 +1,9 @@
+{
+  "name": "ghook",
+  "version": "1.0.0",
+  "main": "push.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {}
+}
